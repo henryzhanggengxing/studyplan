@@ -9,3 +9,5 @@
 ## sftp & ftp & scp
 
 ## grep & sed & awk
+
+## /etc/hosts.allow & /etc/hosts.deny
