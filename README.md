@@ -11,3 +11,5 @@
 ## grep & sed & awk
 
 ## /etc/hosts.allow & /etc/hosts.deny
+
+## centos中yum repo
