@@ -13,3 +13,7 @@
 ## /etc/hosts.allow & /etc/hosts.deny
 
 ## centos中yum repo
+
+## netfilter & iptables & firewall
+
+## ipvs & LVS
